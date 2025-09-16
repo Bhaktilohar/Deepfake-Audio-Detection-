@@ -1,0 +1,57 @@
+/* ===== MAIN APP STYLING ===== */
+[data-testid="stAppViewContainer"] {
+    background-color: #0a192f;
+    color: #e6f1ff;
+    font-family: 'Arial', sans-serif;
+}
+
+/* ===== HEADINGS ===== */
+h1, h2, h3 {
+    color: #64ffda !important;
+    text-align: center;
+}
+
+/* ===== PARAGRAPH ===== */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* ===== BUTTONS ===== */
+.stButton button {
+    background-color: #112240 !important;
+    color: #64ffda !important;
+    border-radius: 10px;
+    padding: 0.5em 1.2em;
+    border: none;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.stButton button:hover {
+    background-color: #233554 !important;
+    color: #ffffff !important;
+}
+
+/* ===== FILE UPLOADER ===== */
+[data-testid="stFileUploaderDropzone"] {
+    background-color: #112240;
+    border-radius: 10px;
+    border: 2px solid #64ffda;
+    color: #64ffda;
+}
+
+/* ===== SCROLLBAR ===== */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: #64ffda;
+    border-radius: 10px;
+}
+
+/* ===== IMAGES ===== */
+img {
+    border-radius: 10px;
+    max-width: 100%;
+}
