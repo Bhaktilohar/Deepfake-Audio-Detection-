@@ -57,4 +57,13 @@ Accuracy: ~91% on test set
 
 SHAP explanations highlight frequency-time regions influencing predictions
 
+## 📦 Dataset
+
+This repository includes a `archive(1)` folder containing ~4000 audio clips for training and evaluation.  
+The dataset covers **English** and other language samples, each labeled as **Real** or **Fake**.  named 'lang'
+
+
+To run program streamlit run audio_deepfak_ui.py
+
+
 
