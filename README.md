@@ -29,10 +29,10 @@ This project implements a **deep learning–based system** to detect whether a g
 
 ## 📊 Example Results
 
-| Input Audio | Prediction | Confidence | SHAP Explanation |
+| Input Audio | Prediction | Confidence | 
 |-------------|------------|------------|------------------|
-| `real_01.wav` | ✅ Real | 0.92 | ![shap](assets/shap_real.png) |
-| `fake_05.wav` | ❌ Fake | 0.88 | ![shap](assets/shap_fake.png) |
+| `real_01.wav` | ✅ Real | 0.92 | 
+| `fake_05.wav` | ❌ Fake | 0.88 | 
 
 🔬 Technologies Used
 
