@@ -1,5 +1,4 @@
-# Deepfake-Audio-Detection-
-Audio Deepfake Detection using Spectrograms, CNN, and SHAP explainability.
+
 # 🎙️ Voice of Truth — Audio Deepfake Detection
 
 > Detecting audio deepfakes using spectrograms, CNN, and SHAP explainability.
