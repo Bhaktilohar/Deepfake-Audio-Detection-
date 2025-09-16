@@ -38,16 +38,23 @@ This project implements a **deep learning–based system** to detect whether a g
 
 Python 3.10
 Librosa – audio processing
+
 TensorFlow / PyTorch – deep learning models
+
 SHAP – explainability
+
 Streamlit – web demo
+
 Scikit-learn – metrics, preprocessing
 
 📈 Performance
 
 Dataset: SceneFake / FoR (Kaggle)
+
 Best model: CNN with spectrogram input
+
 Accuracy: ~91% on test set
+
 SHAP explanations highlight frequency-time regions influencing predictions
 
 
